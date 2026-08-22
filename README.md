@@ -143,7 +143,7 @@ System Status ................. ONLINE ✅
 
 ---
 
-# ⚡ Tech Stack
+# ⚡Tech Stack
 
 <p align="center">
 
